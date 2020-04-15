@@ -6,6 +6,7 @@ Periodically updated results from Ordinal Markup's Discord server's Census.
 - Prefer not to say: 6
 - Non-Binary: 1
 - Apache attack helicopter: 1 <!-- Very funny, guys. -->
+
 ## Age Distribution
 Ya'll are older than I expected!
 - No Response: 2
@@ -14,6 +15,7 @@ Ya'll are older than I expected!
 - 18-21: 12
 - 21-50: 24
 - Over 50: 1
+
 ## Location
 Turns out we're overwhelmingly American.
 - No Response: 4
@@ -39,6 +41,7 @@ Turns out we're overwhelmingly American.
 - Fortnite Spawn Island: 1 <!-- Damnit. -->
 - Italy: 1
 - Netherlands: 1
+
 ## How the game is found
 - No Response: 1
 - Discord (Other): 16
